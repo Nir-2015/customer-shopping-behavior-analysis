@@ -5,6 +5,10 @@ The analysis was carried out using Python for data preparation, PostgreSQL for s
 
 SQL queries? Check them here[SQL_queries](/queries.sql)
 
+## 📈 Dashboard Preview
+
+![Dashboard](results/dashboard.png)
+
 ## 🛠️ Tools & Technologies Used
 
 | Tool | Purpose |
