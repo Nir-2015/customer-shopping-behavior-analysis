@@ -7,7 +7,7 @@ SQL queries? Check them here[SQL_queries](/queries.sql)
 
 ## 📈 Dashboard Preview
 
-![Dashboard](results/dashboard.png)
+![Dashboard](results/Dashboard.png)
 
 ## 🛠️ Tools & Technologies Used
 
